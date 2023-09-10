@@ -1,0 +1,26 @@
+h1 {
+    color: crimson;
+    font-weight: bold;
+    background-blend-mode: soft-light;
+}
+
+body {
+    background-image: url(https://www.onlinegestoria.com/sites/default/files/styles/large/public/2021-07/727732large.jpg?itok=QDpJcFx4);
+    background-size: cover;
+}
+
+#nombre {
+    background-color: burlywood;
+    color: brown;
+}
+
+#apellido {
+    background-color: burlywood;
+    color: brown;
+}
+
+#fecha_nacimiento {
+    background-color: burlywood;
+    color: brown;
+
+}
